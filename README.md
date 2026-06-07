@@ -1,4 +1,4 @@
-# Boar's Head Food Inventory Management System
+# ShelfIQ: Food Inventory Management System
 
 A full-stack web application for managing food inventory with real-time stock tracking and an intuitive user interface.
 
