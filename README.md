@@ -57,7 +57,7 @@ This application allows users to manage their food inventory by tracking items, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/KSanders04/Boars-Head-Food-Inventory.git
+   git clone https://github.com/KSanders04/ShelfIQ.git
    cd Project4
    ```
 
